@@ -20,10 +20,10 @@ from typing import Any, Dict, List, Optional, Tuple
 
 
 INPUT_PATH = Path(
-    "/home/mshujaa/Desktop/mshujaa/llava_hugingface/XRZOO/new_age/age_maping_family.jsonl"
+    "Age_Coherence_Pipeline/examples/step5_input/age_maping_family.jsonl"
 )
 OUTPUT_PATH = Path(
-    "/home/mshujaa/Desktop/mshujaa/llava_hugingface/XRZOO/new_age/coherent_analysis_family_table_only.jsonl"
+    "Age_Coherence_Pipeline/examples/step5_output/coherent_analysis_family_table_only.jsonl"
 )
 
 STORE_MAP = {

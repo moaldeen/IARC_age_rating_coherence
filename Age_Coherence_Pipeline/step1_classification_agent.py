@@ -25,7 +25,7 @@ LOGGER = logging.getLogger(__name__)
 
 DEFAULT_MODEL_NAME = "Qwen/Qwen3-14B"
 DEFAULT_INPUT_JSON = (
-    "/home/mshujaa/Desktop/mshujaa/llava_hugingface/XRZOO/new_age/family_apps_strict_enriched.json"
+    "Age_Coherence_Pipeline/inputs/step1/family_input_exact.json"
 )
 DEFAULT_OUTPUT_JSON = "new_age/qwen_child_safety_statements_family.json"
 
