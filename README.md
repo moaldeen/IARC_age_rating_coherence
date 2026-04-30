@@ -22,7 +22,6 @@ This repository contains the main scripts, input JSON files, questionnaire files
 
 - `final_inconsistinces_bundle.zip`
 
-This archive is a smaller screenshot subset exported from `2contr/final_inconsistinces`. It is separate from the original local project data and does not modify any of the source screenshots.
 
 ## Environment Setup
 
